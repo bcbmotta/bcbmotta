@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋
-📚 I’m currently studying a Data Science Postgraduate Degree<br>🤝 I’m looking to collaborate on Machine Learning Projects<br>🚗 I have 10+ years experience as a Mechanical Engineer<br>📝 I post my articles on https://medium.com/@bcbmotta<br>📫 How to reach me: bcbmotta@gmail.com
+📚 Data Scientist Postgraduate<be>
+🚗 10+ years experience as a Mechanical Engineer<be>
+🤝 Looking to collaborate on Machine Learning Projects<be>
+📝 I post my articles on https://medium.com/@bcbmotta<br>
+📫 How to reach me: bcbmotta@gmail.com
 
 
 ## 🌐 Socials:
