@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋
-📚 Data Scientist Postgraduate<be>
-🚗 10+ years experience as a Mechanical Engineer<be>
-🤝 Looking to collaborate on Machine Learning Projects<be>
+📚 Data Scientist Postgraduate<br>
+🚗 10+ years experience as a Mechanical Engineer<br>
+🤝 Looking to collaborate on Machine Learning Projects<br>
 📝 I post my articles on https://medium.com/@bcbmotta<br>
 📫 How to reach me: bcbmotta@gmail.com
 
